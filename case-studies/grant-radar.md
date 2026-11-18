@@ -19,6 +19,6 @@ React, TypeScript, Vinext, API HTTP, Node.js, Cloudflare D1 i Drizzle.
 
 ## Zakres weryfikacji
 
-Model danych przechowuje osobno wykryte projekty i przebiegi skanowania. Wpis zawiera m.in. źródło, identyfikator projektu, pozycję w procesie, punktację i stan weryfikacji kontaktu.
+Model danych przechowuje osobno wykryte projekty i przebiegi skanowania. Wpis zawiera m.in. źródło, identyfikator projektu, pozycję w procesie, punktację i stan weryfikacji kontaktu. Przygotowana wersja demonstracyjna korzysta z fikcyjnych danych. Lokalna próba potwierdziła budowę, migrację bazy D1, odczyt oraz zapis zmiany etapu przez API.
 
 [Wróć do spisu studiów przypadków](README.md).

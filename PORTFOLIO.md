@@ -12,7 +12,7 @@ I build business automation and full-stack tools for sales, marketing, and opera
 | [Infinity Tenders](https://github.com/AlexDzien/infinity-tenders) | BZP/TED, dowody źródłowe, kwalifikacja postępowania i ranking ofert | Studium przypadku, moduł rankingu i test |
 | [Procurement Studio & CRM](https://github.com/AlexDzien/procurement-studio-crm) | OCR i analiza dokumentacji z przekazaniem wyników do CRM | Studium przypadku, obliczenia oferty i testy |
 | [SalesPilot](https://github.com/AlexDzien/salespilot-outreach) | Research ofert, wielojęzyczne szkice, kolejka i obsługa odpowiedzi | Studium przypadku, moduły języka i odpowiedzi MIME oraz testy |
-| [Mailing wielu marek](https://github.com/AlexDzien/multi-brand-email-automation) | Podział kampanii, ślad źródłowy i obsługa wypisów | Studium przypadku |
+| [Mailing wielu marek](https://github.com/AlexDzien/multi-brand-email-automation) | Podział kampanii, ślad źródłowy i obsługa wypisów | Studium przypadku, kod odczytu kontaktów i testy |
 | [Voicebot AI](https://github.com/AlexDzien/voicebot-lead-qualification) | Kwalifikacja telefoniczna, scenariusze Vapi i prototyp Twilio/OpenAI Realtime | Studium przypadku, fragment prototypu i test |
 | [Publikacja w WordPressie](https://github.com/AlexDzien/wordpress-editorial-automation) | Research, paczka redakcyjna, publikacja i kontrola wpisów | Studium przypadku, moduł kart i test |
 | [Publikacja w Meta](https://github.com/AlexDzien/social-publishing-automation) | Deduplikacja, kontrola polszczyzny i weryfikacja publikacji | Studium przypadku, moduły redakcyjne i testy |
