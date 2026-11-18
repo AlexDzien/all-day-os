@@ -1,0 +1,4 @@
+.all-day-it-logo{display:inline-block;flex-shrink:0;width:var(--adit-logo-size,56px);height:var(--adit-logo-size,56px);background:currentColor;-webkit-mask:url('/assets/brand/alldayit-logo.png') center/contain no-repeat;mask:url('/assets/brand/alldayit-logo.png') center/contain no-repeat;color:var(--text)}
+.brand.adit-brand{gap:12px}.brand.adit-brand .all-day-it-logo{color:var(--text)}.brand.adit-brand b{font-size:20px!important;letter-spacing:-.7px!important;color:var(--text)}.brand.adit-brand b span{color:var(--muted)}.brand.adit-brand small{color:var(--muted);font-size:8px!important;letter-spacing:1.5px!important}
+.sidebar .brand.adit-brand .all-day-it-logo{color:#dcf4e6}.sidebar .brand.adit-brand b{color:#fff}.sidebar .brand.adit-brand b span{color:#bedacf}.sidebar .brand.adit-brand small{color:#bedacf}
+.demo-app-gate{display:contents}.demo-app-gate[inert]{visibility:hidden}
