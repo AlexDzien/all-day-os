@@ -10,8 +10,8 @@ I build business automation and full-stack tools for sales, marketing, and opera
 | --- | --- | --- |
 | [All Day OS](https://github.com/AlexDzien/all-day-os) | CRM/ERP od klienta, przez ofertę i zamówienie, do faktury i płatności | Aplikacja na fikcyjnych danych, testy, [demo w przeglądarce](https://demo.alldayit.pl/) |
 | [Infinity Tenders](https://github.com/AlexDzien/infinity-tenders) | BZP/TED, dowody źródłowe, kwalifikacja postępowania i ranking ofert | Studium przypadku, moduł rankingu i test |
-| [Procurement Studio & CRM](https://github.com/AlexDzien/procurement-studio-crm) | OCR i analiza dokumentacji z przekazaniem wyników do CRM | Studium przypadku |
-| [SalesPilot](https://github.com/AlexDzien/salespilot-outreach) | Research ofert, wielojęzyczne szkice, kolejka i obsługa odpowiedzi | Studium przypadku, moduł językowy i testy |
+| [Procurement Studio & CRM](https://github.com/AlexDzien/procurement-studio-crm) | OCR i analiza dokumentacji z przekazaniem wyników do CRM | Studium przypadku, obliczenia oferty i testy |
+| [SalesPilot](https://github.com/AlexDzien/salespilot-outreach) | Research ofert, wielojęzyczne szkice, kolejka i obsługa odpowiedzi | Studium przypadku, moduły języka i odpowiedzi MIME oraz testy |
 | [Mailing wielu marek](https://github.com/AlexDzien/multi-brand-email-automation) | Podział kampanii, ślad źródłowy i obsługa wypisów | Studium przypadku |
 | [Voicebot AI](https://github.com/AlexDzien/voicebot-lead-qualification) | Kwalifikacja telefoniczna i pokrewny prototyp audio Twilio/OpenAI Realtime | Studium przypadku, fragment prototypu i test |
 | [Publikacja w WordPressie](https://github.com/AlexDzien/wordpress-editorial-automation) | Research, paczka redakcyjna, publikacja i kontrola wpisów | Studium przypadku, moduł kart i test |
