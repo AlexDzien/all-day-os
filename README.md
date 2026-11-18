@@ -51,3 +51,5 @@ python -m pytest demo/test_backend.py -q
 ```
 
 Testy obejmują m.in. izolację sesji, cykl dokumentów sprzedażowych, scenariusze danych i generowanie PDF. Kod interfejsu znajduje się w `demo/ui`, a warstwa aplikacji i dane przykładowe w `demo/backend.py` oraz `demo/data_seed.py`.
+
+[Zobacz pozostałe projekty Aleksandra Dzieńdziury](PORTFOLIO.md).
